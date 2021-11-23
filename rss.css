@@ -66,6 +66,13 @@
         height:50px;
     }
 
+    
+    .bbb{
+        position:absolute;
+        left:300px;
+        width:12rem !important;
+        font-size: 15px;
+    }
 
 }
 
@@ -82,7 +89,7 @@
 
         .bbb{
             position:absolute;
-            left:90px;
+            left:70px;
             width:12rem !important;
             font-size: 15px;
         }
