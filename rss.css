@@ -37,6 +37,13 @@
     left:800px;
 }
 
+.mac{
+    height: 100px !important;
+}
+
+.aimg{
+    height: 100px;;
+}
 
 
 
@@ -133,11 +140,22 @@
 
         .imgg{
             width: 100%;
-            height: 150px;   
+            height: 150px;
         }
 
         .card-body{
             text-align:center;
+        }
+
+        .mac{
+            height:50px !important ;
+            margin-top:26px;
+        }
+
+        
+        .gg{
+            height:50px !important ;
+            margin-top:-30px;
         }
 
         
